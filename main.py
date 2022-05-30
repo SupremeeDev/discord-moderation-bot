@@ -146,4 +146,4 @@ async def unbanall(ctx):
         await ctx.reply(f"> Svi Memberi su Unbanovani by {ctx.author.name}")
 
 
-bot.run("ODQ3NzkyOTE4ODAyNTk1ODYw.YLDOrw.4wC6oITNz9fOnhH9KaIn21pkGIA") # Token
+bot.run("") # Token
